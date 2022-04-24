@@ -5,13 +5,12 @@ The Braking System is used to control the speed of the DC Motor. It has been imp
 •	Simple 
 •	Robust System.
 
-# High Level Requirements
-## ID	## Description
-##HLR1	When the push button is closed, the LED stops glowing & the motor ceases to run.
-##HLR2	Manual Input from the contact switch.
+# High Level Requirements 
+HLR1	When the push button is closed, the LED stops glowing & the motor ceases to run.
+HLR2	Manual Input from the contact switch.
 # Low Level Requirements
-##ID	Description
-##LLR1	Compatible on different Operating Systems.
+
+LLR1	Compatible on different Operating Systems.
 
 
 
