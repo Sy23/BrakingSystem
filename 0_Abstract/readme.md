@@ -1,0 +1,1 @@
+The Braking System is used to control the speed of the DC Motor. It has been implemented by using Atmega328 in a simulation software named SimulIDE using Embedded C. Virtually, the DC Motor is controlled by using a push button powered by a constant voltage source.
